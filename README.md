@@ -15,13 +15,9 @@ Guide: Dr. S. Vinay Kumar, Associate Professor, Department of Computer Science a
 
 Team Members
 
-Name
+Name      Roll Number
 
-Roll Number
-
-Y. Jahnavi
-
-2520030567
+Y. Jahnavi 2520030567
 
 P. Devisree
 
